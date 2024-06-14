@@ -1,0 +1,22 @@
+.moi{
+    background-color: aliceblue;
+    color: black;
+    display: block;
+    padding: 200px auto 200px auto;
+    text-align: center;
+    font-size: 10em;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+    text-align: center;
+    color: black;
+}
+
+#moi{
+    width: auto;
+    height: 60vh;
+    display: block;
+    margin: 26px auto;
+    border-radius: 2em;
+}

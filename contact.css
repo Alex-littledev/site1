@@ -1,0 +1,119 @@
+.title{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    background: linear-gradient(rgba(191, 81, 255, 0.991),rgba(0, 0, 255, 0.5));
+    padding: 60px;
+}
+
+
+
+.subtt{
+    margin-top: 50px;
+    color: white;
+    width: 50%;
+    text-align: center;
+    display: block;
+    margin: 50px auto 50px auto ;
+    font-size: 3em;
+}
+
+#etude{
+    height: auto;
+    width: 95%;
+    display: block;
+    margin: 20px auto;
+    border-radius: 2em;
+}
+#txt-etude1{
+    color: white;
+    display: block;
+    margin: 10px auto 30px auto;
+    text-align: center;
+    font-size:1.7em
+}
+#txt-etude2{
+    color: white;
+    display: block;
+    margin:30px auto 30px auto ;
+    width: 80%;
+    font-size: 1.34em;
+    text-shadow: black 0 0 2px;
+}
+
+body::selection {
+    background-color:#CF2E87;
+    color: #fff;
+   }	
+body{
+    background-color: rgb(39, 179, 195);
+    margin:0; 
+    padding: 0;
+}
+body:hover{
+    cursor: default ;
+}
+*{font-family: "Roboto",Arial;}
+
+
+.more{
+    display: block;
+    margin: 15px auto 15px auto;
+    padding: 10px;
+    background-color: #085e9c;
+    color: whitesmoke;
+    border-radius: 1rem;
+    width: 30%;
+    text-align: center;
+    box-shadow: 0 0 5px black;
+}
+
+.more:hover{
+    box-shadow: 0 0 5px black;
+    box-shadow: inset 0 -1px 5px black;
+}
+.more:active{
+    box-shadow: inset 0 1px 5px black;
+
+}
+
+#dissec{
+    display: block;
+    margin: 15px auto 15px auto;
+    border-radius: 1em;
+    box-shadow: black 0 0 5px;
+}
+
+
+#diplome{
+    color: white;
+    display: block;
+    margin: 30px auto 30px auto;
+    font-size: 3em;
+    text-align: center;
+}
+#diplome-img{
+    display: block;
+    margin: 10px auto 10px auto;
+    border-radius: 1em;
+    box-shadow: 0 0 3px black;
+}
+
+.fin-txt{
+    margin-top: 50px;
+    color: white;
+    width: 80%;
+    text-align: center;
+    display: block;
+    margin: 50px auto 50px auto ;
+    font-size: 3em;
+}
+
+#list{
+    list-style-type: disc;
+    color: white;
+    display: block;
+    margin: 10px auto;
+    padding: 2em;
+    font-size: 1.5em;
+}
